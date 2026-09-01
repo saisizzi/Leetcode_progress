@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saisizzi/Leetcode_progress/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/saisizzi/Leetcode_progress/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/saisizzi/Leetcode_progress/tree/master/0560-subarray-sum-equals-k) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/saisizzi/Leetcode_progress/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Union-Find
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/saisizzi/Leetcode_progress/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/saisizzi/Leetcode_progress/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/saisizzi/Leetcode_progress/tree/master/0229-majority-element-ii) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saisizzi/Leetcode_progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,12 +136,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saisizzi/Leetcode_progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/saisizzi/Leetcode_progress/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saisizzi/Leetcode_progress/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/saisizzi/Leetcode_progress/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
