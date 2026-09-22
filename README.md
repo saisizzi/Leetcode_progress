@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/saisizzi/Leetcode_progress/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/saisizzi/Leetcode_progress/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/saisizzi/Leetcode_progress/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/saisizzi/Leetcode_progress/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/saisizzi/Leetcode_progress/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/saisizzi/Leetcode_progress/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/saisizzi/Leetcode_progress/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/saisizzi/Leetcode_progress/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
